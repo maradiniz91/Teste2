@@ -1,0 +1,4 @@
+Git Push
+Com o “git push –u origin ” podemos encaminhar as mudanças commitadas para o GitHub, nesse exemplo utilizaremos o branch padrão master.
+
+$ git push -u origin master
